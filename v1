@@ -11,4 +11,9 @@ public static void main(String[] args) {
         System.out.println(i);  
     }  
 }  
-}  
+
+[200~//Java Program to illustrate the use of continue statement  
+//inside an inner loop  
+public class ContinueExample2 {  
+public static void main(String[] args) {  
+            //outer loop  }  
